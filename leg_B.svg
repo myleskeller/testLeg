@@ -3,7 +3,7 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 91.2 142.6" style="enable-background:new 0 0 91.2 142.6;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:#FFFFFF;}
+	.st0{fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;}
 	.st1{fill:none;stroke:#000000;stroke-width:0.324;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
 </style>
 <rect class="st0" width="91.2" height="142.6"/>
@@ -264,7 +264,7 @@
 	<polyline class="st1" points="26.1,19.4 26.6,19.5 27.4,19.6 	"/>
 	<path class="st1" d="M27,21.3l-0.4-0.1c-0.4,0-1.1-0.2-1.6-0.3h-0.1"/>
 	<path class="st1" d="M26.1,19.4h-0.2c-0.6,0.3-0.8,0.7-1,1.2v0.3v43.8"/>
-	<path class="st1" d="M27,65.1L26.6,65c-0.4,0-1.1-0.2-1.6-0.3l-0.1,0"/>
+	<path class="st1" d="M27,65.1L26.6,65c-0.4,0-1.1-0.2-1.6-0.3h-0.1"/>
 	<path class="st1" d="M43.8,7.4l-0.2,0.2l-0.4,0.1l-0.5,0.1L42,8l-0.7,0.1l-0.8,0.1h-0.8l-1.3-0.1c-0.7-0.2-1.7-0.2-2.2-0.8V7.1
 		l0.1-0.2l0.2-0.2l0.4-0.2l0.5-0.2l0.7-0.1l0.7-0.1L39.6,6h0.8l0.7,0.1c1,0.1,1.8,0.1,2.7,0.7L43.9,7v0.2L43.8,7.4"/>
 	<polyline class="st1" points="24.9,64.7 24.2,64.4 23.5,64.1 23,63.7 22.7,63.3 22.4,62.9 22.4,62.5 22.4,62.4 	"/>
@@ -352,7 +352,7 @@
 	<path class="st1" d="M58.8,130.7h1.8c28.9-3,29.8-40.1,4.8-50.2l-1.7-0.6"/>
 	<polyline class="st1" points="58.8,130.7 58.8,130.3 58.7,129.9 58.7,129.7 	"/>
 	<polyline class="st1" points="17.2,74 16.6,74 16.1,73.9 15.7,73.8 15.3,73.7 15,73.5 14.9,73.4 14.9,73.2 	"/>
-	<path class="st1" d="M7.4,63.6l0.1,0.1c0.7,1.2,6,1.2,7.2,0.7h0.2"/>
+	<path class="st1" d="M7.4,63.6L7.4,63.6c0.8,1.3,6.1,1.3,7.3,0.8h0.2"/>
 	<path class="st1" d="M15.8,50.9l-0.3,0.2l-0.4,0.2c-0.7,0.4-2.8,0.4-3.8,0.5l-0.7-0.1l-0.7-0.1c-0.6,0-2.1-0.3-2.4-0.9v-0.2
 		l0.1-0.2"/>
 	<line class="st1" x1="17.8" y1="49.1" x2="15.8" y2="50.9"/>
