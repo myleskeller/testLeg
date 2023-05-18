@@ -1,9 +1,6 @@
 # testLeg
 Simulated human leg providing repeatable, consistent walking motion for simulation and improvement of assistive wearable devices.
 
-_Note: Set your github theme to light mode to be able to see the vector diagrams._
-
-
 ## Converting kinematic motion of human walking pattern into linkage-based mechanism 
 <img src="./leg1.svg" width="50%">
 
